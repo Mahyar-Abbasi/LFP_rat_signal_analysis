@@ -1,5 +1,7 @@
 # LFP_rat_signal_analysis
 
+Practical hands-on assignments from the course Neuroscience of Learning, Memory, and Cognition taught by Dr. Hamid Aghajan:
+
 In gamma_band_entrainment.ipynb notebook I analyzed local field potential (LFP) data from rat brains, using Phase Lag Index (PLI) and Phase 
 Locking Value (PLV) to measure coherence between brain regions such as the hippocampus, 
 medial prefrontal cortex (mPFC), and ventral striatum. Results showed stronger gamma-band 
